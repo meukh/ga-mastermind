@@ -1,11 +1,13 @@
 # MasterMind GA
 Build a genetic algorithm to learn the MasterCode of the mastermind game.
 
+## Dependencies
+
+This code makes use of the [DEAP framework](https://deap.readthedocs.io/en/master/). Start by pip installing it first or getting it from [https://github.com/deap/deap](https://github.com/deap/deap).
+
+Playing with it is straightorward, and the code should also be easy to modify be after having a look at the DEAP documentation.
+
 ## How to use?
-
-This relies on the [DEAP framework](https://deap.readthedocs.io/en/master/). Start by pip installing it first or getting it from [https://github.com/deap/deap](https://github.com/deap/deap).
-
-Playing with it is straightorward and modifying should also be easy after having a look at the DEAP documentation.
 
 ![](demo.gif)
 
